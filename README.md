@@ -1,7 +1,7 @@
 # sample_code
 
-#install dependencies
+# install dependencies
 Run npm install
 
-#run dev server
+# run dev server
 npm start
